@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhidnya Patil
-- 👀 I’m interested in Web development and Machine Learning
-- 🌱 I’m currently learning React js and Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👀 I’m interested in Full Stack and MERN Stack Web Development
+- 🌱 I’m currently learning React js and other Web technologies
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Reach me at abhidnyapatil09@gmail.com
 
 <!---
